@@ -17,3 +17,5 @@ Example
     git add .gitattributes
     
 ## Check whether file type adds to git-lfs
+
+ git lfs ls-files
