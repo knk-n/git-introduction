@@ -18,4 +18,4 @@ Example
     
 ## Check whether file type adds to git-lfs
 
- git lfs ls-files
+    git lfs ls-files
