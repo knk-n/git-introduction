@@ -11,3 +11,5 @@
 　もしくは
 ⇒「無視するファイル名のパターン」に拡張子を登録する
 　ex) *.ai, *psd
+
+参照：https://www.wan55.co.jp/column/detail/id=551
