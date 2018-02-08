@@ -5,7 +5,7 @@
 
 ***[SourceTree] → [環境設定] → [Diff]タブ***
 
-![alt](./images/lfs05.png)
+![alt](../images/lfs05.png)
 
 ⇒「サイズ制限（バイナリ）」の値を0（もしくは少ない値）にする
 　もしくは
