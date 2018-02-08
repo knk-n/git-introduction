@@ -3,7 +3,7 @@
 こちらはSourceTreeの動きを少しだけ軽くするTIPS。
 画像のプレビューを使わない場合は、プレビューを無効にするとSourceTreeが多少軽くなります。
 
-***[SourceTree] → [環境設定] → [Diff]タブ***
+**[SourceTree] → [環境設定] → [Diff]タブ**
 
 ![alt](../images/lfs05.png)
 
